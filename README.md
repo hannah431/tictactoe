@@ -15,13 +15,13 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [ ] Submit your website using the link on the Agenda
 
 ### Day 1 Goal 2: Create variables to keep track of game data
-- [ ] Declare a variable that keeps track of the current player and set it equal to either a string of "X" or "O"
-- [ ] Declare a variable that keeps track of the total number of turns taken and set it equal to 0
-- [ ] Declare a variable of a boolean type that will signal whether or not the game has ended and set it equal to false
+- [x] Declare a variable that keeps track of the current player and set it equal to either a string of "X" or "O"
+- [x] Declare a variable that keeps track of the total number of turns taken and set it equal to 0
+- [x] Declare a variable of a boolean type that will signal whether or not the game has ended and set it equal to false
 
 ### Day 1 Goal 3: Allow users to choose a square and change that square to an "X" or an "O" alternating
 - [ ] Declare a function with two parameters that removes the button of the corresponding ID, and changes the text of the div that is the tileId to the player variable. (Then, uncomment this function call in the starter code!)
-- [ ] Declare a function with 0 parameters that will change the current player to either "X" or "O" depending on the current player. Decide where to call this function.
+- [x] Declare a function with 0 parameters that will change the current player to either "X" or "O" depending on the current player. Decide where to call this function.
 
 #### Wrap
 - [ ] Save and submit your website using the link on the session agenda.
